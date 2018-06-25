@@ -1,0 +1,20 @@
+{
+  "name": "refactor-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramarulandac/translation.git"
+  },
+  "author": "Kubide <hi@kubide.io>",
+  "license": "MIT",
+  "homepage": "https://github.com/ramarulandac/translation.git#readme",
+  "dependencies": {
+    "@google-cloud/translate": "^1.1.0"
+  }
+}

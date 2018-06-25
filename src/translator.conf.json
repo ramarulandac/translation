@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "helical-element-195912",
+  "private_key_id": "07ff2b344d0094085d3bcb27346b2cfae9e10afd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCpGozQVKa9BGyE\nMocolF2uM3X0bO2YM3E89jQeueRba9uDT15pe3D8EsQr2ZxHNA1l39VKuHPh7Y9Y\n1P7McgKeBSH+gl1dxhlpDAjk3p/AooIONJqUreDuI1WT4yRwKEDZ14423UP6UEA1\nDrzntF8gVz7OwOsunrpVsNIO9WisPxIaSO+700vKEr5l1Ymzs/htsh7+XjILT7te\nyvp8/5etU564P0zAr5RtnhezNpMP4S+6S0XE7etZmc3a4kogQfVsd4oUcCGpE3Z6\npLkMDxoTsOeZYHpDhDoqkq/gBNfCYknFBZhmvMJt8L+QpCNheztIWHuaZ3y+Ig4n\naVzcARUNAgMBAAECggEAHiBEQOMr11W/7WdBC/ounFe/pl13kJtti5JDI8wzQhQ7\nha+wnrMmpEnFmBhLDqZX0rPnQEoPHwte89DyWcLf833vmfNopcmigkPqG7gLltp8\nuAIoHd/CSDqURuX6+l45e3W6+Mw/jYsZfTpUbiUEo3LXlibpXyNZB+YZ7h9LWBAU\nP/r3OgT0pjxHD1DvCfCyR9LNo6N/cR25ShNgHx/ZvrgQ1dyzZ3I1q/4ixa2FJnw8\n043lGHzAg/O3QEKvfSHL+PmqfPWaVllvX8LS4pVIRrATo1i9LjoEbUZEYhZpB02g\nJzTFHbclNleJxdzQDy2mZad3457jihnZ51/cjs0jEwKBgQDXcza/yUThHa9ZYVNq\nV/o8r9mfuSVsSZIv81pmq13n1jAzXY6FN1HORJ2n6KGWXzgvuNJa/ttWDNrST3L0\n/8ZSbeqSl9ctIDJhU1o1nTcBMNhu+uvBztY0J6UktUcLKCUp7swj0erBWxWyXGxx\nw+/rZUIdAP4zzCUt0GCVrvi6mwKBgQDI7khlOoZ2+EbRdnsqAZp7zd835tZSY6mE\nXSPloDBBFt8E6pd+HQEW1VimsuJeXEeH7mFz5GOUJ7ftyVWH4+IsK4Szi6MLtjd9\nNhCllc2sowhOnvO0sjjx40BNAluWx6I6L1Wc08lr8Uf07wyfE7M/w7xcfg1bCN7I\nTclbmiT1dwKBgQCTu1LNSytJ2VsFRLE3+D+EIWhuFzxL9l6hNpLEV7k6YSoH7pzt\nR7N2ZqJcIi26uGwEfQzwjFTFumbJUuUWjdPlba0s+6T2Ml+ZUNhIbxbqYB3oa3IB\nINzMQmsAsrSWN97T1ARyg1wfXV+RP8K0d5AprvMYhDfKOK89rOatfJ7dBQKBgQDB\nFcpYDK+er+NN8i9VJIlRo3p3+8nFDqSd3+tZBGCai+HwlYbS2Aht6sLwHkLOLptG\nktrvRXAztR9Yz/rzRRfZHlC9QNiDrq0QE95XYOdumJSpCLJk2EdEmv71geiFsn3A\nsC/zLsoGgqyFQRq9226LPgtKTo+DBbkgfy+aaTxO7QKBgDwNWS5A0aO1Cpwf9COp\niP7jm3MidLikhY4VDIpNqiz6FUuKl0OjpE/ozVhBXhDSUYauY/FSZBXVB4DfNFk0\nBOG2tVrNvPv8S4n61VFaW+1jv2yFUO0EKR7F/ONUPgi9ifaRM30ah+tl4qmzD2As\nCmaAa4QBkliLMGs9CkilbkPh\n-----END PRIVATE KEY-----\n",
+  "client_email": "translator@helical-element-195912.iam.gserviceaccount.com",
+  "client_id": "107649308315916424556",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translator%40helical-element-195912.iam.gserviceaccount.com",
+  "projectId" : "helical-element-195912"
+}
